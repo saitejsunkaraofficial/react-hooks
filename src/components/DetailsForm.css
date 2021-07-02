@@ -1,0 +1,29 @@
+#contact-heading {
+    font-size: 26px;
+}
+.margin-top-set {
+    margin-top: 20px;
+}
+label {
+    margin-bottom: 10px;
+}
+.customCard {
+    background: linear-gradient(to top, #990033 0%, #660033 100%);
+    min-height: 40px;
+    height: auto;
+}
+.customFontHead {
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 700;
+}
+.customFontBody {
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 500;
+}
+.customFontFooter {
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: 500;
+}
